@@ -1,10 +1,8 @@
 
-
-
 export const App = () => {
   return (
     <div className="App">
-      <h1>ola mundo</h1>
+      <h1>Teste</h1>
     </div>
   );
 }
